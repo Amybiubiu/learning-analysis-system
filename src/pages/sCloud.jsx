@@ -1,5 +1,5 @@
 import React from 'react'
-import Image from './../image/Cloud.png'
+import Image from './../image/cloud.png'
 
 class SCloud extends React.Component {
     render()

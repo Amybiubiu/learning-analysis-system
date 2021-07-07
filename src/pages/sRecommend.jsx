@@ -1,5 +1,5 @@
 import React from 'react'
-import Image1 from './../image/OOSE.png'
+import Image1 from './../image/oose.png'
 import Image2 from './../image/sa.png'
 import { Table } from 'antd'
 
