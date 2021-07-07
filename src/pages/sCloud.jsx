@@ -1,5 +1,5 @@
 import React from 'react'
-import Image from './../image/cloud.png'
+import Image from './../image/Cloud.png'
 
 class SCloud extends React.Component {
     render()
@@ -10,8 +10,6 @@ class SCloud extends React.Component {
         </div>
         )
     }
-
-
 }
 
 export default SCloud

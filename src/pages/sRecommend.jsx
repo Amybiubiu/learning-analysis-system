@@ -1,5 +1,5 @@
 import React from 'react'
-import Image1 from './../image/oose.png'
+import Image1 from './../image/OOSE.png'
 import Image2 from './../image/sa.png'
 import { Table } from 'antd'
 
@@ -45,11 +45,7 @@ class Recommend extends React.Component{
                     }
                 ]
             return (
-                <div>
-                    
-                    
-
-                                     
+                <div>                 
                     <h2>课程：面向对象软件工程----------------------------------------------------------</h2>
                     <Table
                     columns={columns1}
