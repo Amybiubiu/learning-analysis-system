@@ -6,7 +6,7 @@ class SCloud extends React.Component {
     {
         return(
         <div>
-        <img src={Image} width="500px"></img>
+        <img src={Image} width="500px" alt="" />
         </div>
         )
     }

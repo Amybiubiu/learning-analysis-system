@@ -32,7 +32,7 @@ const SLayout = (props) => {
                         </Menu.Item>
                         <Menu.Item icon={<ContainerOutlined />}>
                             <NavLink to="/student/predict" className="link">
-                                预测
+                                预警
                             </NavLink>
                         </Menu.Item>
                         <Menu.Item icon={<AppstoreOutlined />}>

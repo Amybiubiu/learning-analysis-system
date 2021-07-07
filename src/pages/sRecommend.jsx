@@ -1,6 +1,6 @@
 import React from 'react'
-import Image1 from './../image/oose.png'
-import Image2 from './../image/sa.png'
+import Image1 from '../image/oose.jpg'
+import Image2 from '../image/sa.jpg'
 import { Table } from 'antd'
 
 
@@ -17,7 +17,7 @@ class Recommend extends React.Component{
             {
                 title:'资源图片',
                 dataIndex:'image1',     
-                render:(image1) =>
+                render:() =>
                 <img src={Image1} alt="" width="100px"/>
              }]
 
@@ -35,7 +35,7 @@ class Recommend extends React.Component{
                 {
                     title:'资源图片',
                     dataIndex:'image2',     
-                    render:(image2) =>
+                    render:() =>
                     <img src={Image2} alt="" width="100px"/>
                  }]
     
