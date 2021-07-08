@@ -43,9 +43,9 @@ const ItemSelect = ({ onParamsChange }) => {
                     //     option.children.toLowerCase().indexOf(input.toLowerCase()) >= 0
                     // }
                 >
-                    <Option value="jack">Jack</Option>
-                    <Option value="lucy">Lucy</Option>
-                    <Option value="tom">Tom</Option>
+                    <Option value="jack">2018214877</Option>
+                    <Option value="lucy">2018214878</Option>
+                    <Option value="tom">2018214879</Option>
                 </Select>
             </Col>
         </Row>
